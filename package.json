@@ -1,0 +1,26 @@
+{
+  "name": "parcer",
+  "version": "1.0.0",
+  "description": "A lightweight tool to convert CSV to JSON fast.",
+  "main": "cli.js",
+  "type": "module",
+  "scripts": {
+    "compile": "npx tsc"
+  },
+  "keywords": [
+    "csv",
+    "json",
+    "parser",
+    "converter"
+  ],
+  "author": "Nikita Zanella",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.5.4",
+    "yargs": "^17.7.2"
+  },
+  "devDependencies": {
+    "@types/yargs": "^17.0.13",
+    "@types/node": "^20.4.2"
+  }
+}
