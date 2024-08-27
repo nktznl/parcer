@@ -1,6 +1,6 @@
 {
   "name": "parcer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A lib that help users converting and saving CSV files into JSON files.",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
